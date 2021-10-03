@@ -1,0 +1,23 @@
+1.
+Question 1
+True or false: Suppose a finite dimensional function uh(x)u^h(x)uh(x) is expanded in terms of basis functions NA(x)N^A(x)NA(x), 
+where A=1,...,nA = 1,...,nA=1,...,n. Now suppose that uh(x)u^h(x)uh(x) is a numerical solution of some partial differential equation. 
+Then, uh(x)u^h(x)uh(x) can, under certain conditions, coincide with the exact solution of the partial differential equation.
+
+Ans:True
+
+
+2.
+Question 2
+If the bi-unit domain −1<ξ<1-1 < \xi < 1−1<ξ<1 is mapped to an element with nodal positions xe1=1.5x^1_e = 1.5xe1​=1.5, xe2=3.2x^2_e = 3.2xe2=3.2, 
+then the derivative dx/dξdx/d\xidx/dξ is equal to
+
+
+Ans:0.85
+
+
+3.
+Question 3
+Consider a partition of the domain (0,L)(0,L)(0,L) into neln_{el}nel​ elements for which the weak form is written as an integral over (0,L)(0,L)(0,L). How many sub-integrals can the weak form be broken up into?
+
+Ans:nel
