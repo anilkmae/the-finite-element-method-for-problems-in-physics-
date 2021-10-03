@@ -1,0 +1,24 @@
+1.
+Question 1
+What allows us to rewrite the weak form as a matrix-vector product?
+
+Ans:the expansion of the solution u^h and weighting function w^h over a finite-dimensional basis set with degrees of freedom (coefficients)
+multiplying each basis function
+
+
+2.
+Question 2
+The homogeneous Dirichlet boundary condition on the weighting function w^h  , is implemented in the matrix vector weak form by which of these steps?
+
+Ans:setting the corresponding weighting function degree of freedom to zero, or equivalently not using the corresponding basis function in that element
+
+
+3.
+Question 3
+True or false: The final, assembled, matrix-vector equation that is to be solved to obtain the finite element solution holds only for one value of 
+the weighting function degree of freedom vector.
+
+
+Ans:False
+
+
