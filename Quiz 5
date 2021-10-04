@@ -1,0 +1,38 @@
+1.
+Question 1
+What is the L^2 and H^1 norm of the following function: u(x) = x^2 + 2x, on the interval [0,1][0,1]?
+
+
+Ans:L^2 norm \sqrt{38/15} , H^1 norm \sqrt{178/15} 
+
+
+2.
+Question 2
+True or false: The consistency property of the Finite Element Method is a consequence of the fact that the finite-dimensional spaces appearing 
+in the finite-dimensional weak form are subsets of the infinite-dimensional spaces appearing in the infinite-dimensional weak form.
+
+
+Ans:True
+
+
+3.
+Question 3
+True or false: The rate of convergence of the finite element error is independent of how smooth (regular) the exact solution is.
+
+
+Ans:False
+
+
+4.
+Question 4
+You have developed a finite element formulation to solve a partial differential equation whose exact solution is infinitely regular (smooth). 
+Your finite element implementation uses fourth-order polynomial basis functions. You want to check the rate of convergence of your formulation
+in terms of the third spatial derivative of the finite element solution. So you plot the logarithm of the H^3 norm of the error versus the 
+logarithm of the reciprocal element size, 1/h1/h (assume that all elements in your implementation have the same size). What is the form of the 
+plot you get?
+
+
+
+Ans:a line with slope -2
+
+
