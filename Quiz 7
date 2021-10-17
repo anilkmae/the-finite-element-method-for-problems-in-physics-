@@ -1,0 +1,39 @@
+1.
+Question 1
+Consider the strong form as presented in the video lectures. If you want to specify a heat outflux as a boundary condition, you could use -j.n = j_n
+ , where,
+
+
+Ans:j_n < 0
+
+
+2.
+Question 2
+Suppose the conductivity tensor has all negative components. What would this mean for heat transport?
+
+
+Ans:heat flows up a temperature gradient
+
+
+
+3.
+Question 3
+The steady state heat conduction problem in three dimensions has no unique solution for temperature if we apply only heat flux (Neumann) boundary conditions.
+
+Ans:True
+
+
+4.
+Question 4
+Consider a mapping from the bi-unit domain to a hexahedral element in three dimensions, where the element has at least one pair of non-intersecting faces that are not parallel to each other. Is the Jacobian matrix of the mapping uniform (constant with respect to position) over the element? (a) Yes, (b) no, (c) not enough information. 
+
+Ans:no
+
+
+5.
+Question 5
+Consider an element that has none of its faces lying on the boundary of the domain. What can you say about the element conductivity matrix?
+
+Ans:square, symmetric but not positive definite
+
+
