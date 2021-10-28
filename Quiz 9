@@ -1,0 +1,16 @@
+1.
+Question 1
+In mapping from bi-unit domain to the physical domain, we make use of the inverse of the Jacobian.
+
+
+Ans:True
+
+
+2.
+Question 2
+When computing a boundary integral, all of the nodes in an element on the boundary contribute to the integral.
+
+
+Ans:False
+
+
