@@ -1,0 +1,23 @@
+1.
+Question 1
+Consider a three-dimensional element with cubic basis functions. The number of nodes in this element is 
+
+Ans:64
+
+
+2.
+Question 2
+In order to integrate the product of N^1_ξ and N^2_ξ exactly with 33 quadrature points and weights, the highest order the basis functions could 
+possibly be is
+
+
+Ans:cubic
+
+
+3.
+Question 3
+Finite element formulations in two dimensions can only be constructed as a mappings from a bi-unit square domain.
+
+Ans:False
+
+
