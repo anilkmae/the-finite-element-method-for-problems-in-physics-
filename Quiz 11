@@ -1,0 +1,123 @@
+Skip to Main Content
+Coursera
+
+SEARCH IN COURSE
+Search in course
+1
+
+Anil Kumar
+The Finite Element Method for Problems in Physics
+Week 11
+Unit 11 Quiz
+
+Unit 11: Linear, parabolic partial differential equations for a scalar unknown in three dimensions (Unsteady heat conduction and mass diffusion)
+Video: Lecture11.01. The strong form
+. Duration: 16 minutes16 min
+Video: Lecture11.01c In-Video Correction
+. Duration: 43 seconds43 sec
+Video: Lecture11.02. The weak form, and finite-dimensional weak form - I
+. Duration: 18 minutes18 min
+Video: Lecture11.03. The weak form, and finite-dimensional weak form - II
+. Duration: 10 minutes10 min
+Video: Lecture11.04. Basis functions, and the matrix-vector weak form - I
+. Duration: 19 minutes19 min
+Video: Lecture11.04c In-Video Correction
+. Duration: 44 seconds44 sec
+Video: Lecture11.05. Basis functions, and the matrix-vector weak form - II
+. Duration: 12 minutes12 min
+Video: Lecture11.05. Response to a question
+. Duration: 51 seconds51 sec
+Video: Lecture11.06. Dirichlet boundary conditions; the final matrix-vector equations
+. Duration: 16 minutes16 min
+Video: Lecture11.07. Time discretization; the Euler family - I
+. Duration: 22 minutes22 min
+Video: Lecture11.08. Time discretization; the Euler family - II
+. Duration: 9 minutes9 min
+Video: Lecture11.09. The v-form and d-form
+. Duration: 20 minutes20 min
+Video: Lecture11.09ct.1. Coding assignment 4 - I
+. Duration: 11 minutes11 min
+Video: Lecture11.09ct.2. Coding assignment 4 - II
+. Duration: 13 minutes13 min
+Video: Lecture11.10. Analysis of the integration algorithms for first order, parabolic equations; modal decomposition - I
+. Duration: 17 minutes17 min
+Video: Lecture11.11. Analysis of the integration algorithms for first order, parabolic equations; modal decomposition - II
+. Duration: 14 minutes14 min
+Video: Lecture11.11c. In-Video Correction
+. Duration: 1 minute1 min
+Video: Lecture11.12. Modal decomposition and modal equations - I
+. Duration: 16 minutes16 min
+Video: Lecture11.13. Modal decomposition and modal equations - II
+. Duration: 16 minutes16 min
+Video: Lecture11.14. Modal equations and stability of the time-exact single degree of freedom systems - I
+. Duration: 10 minutes10 min
+Video: Lecture11.15. Modal equations and stability of the time-exact single degree of freedom systems - II
+. Duration: 17 minutes17 min
+Video: Lecture11.15q. Response to a question
+. Duration: 10 minutes10 min
+Video: Lecture11.16. Stability of the time-discrete single degree of freedom systems
+. Duration: 23 minutes23 min
+Video: Lecture11.17. Behavior of higher-order modes; consistency - I
+. Duration: 18 minutes18 min
+Video: Lecture11.18. Behavior of higher-order modes; consistency - II
+. Duration: 19 minutes19 min
+Video: Lecture11.19. Convergence - I
+. Duration: 20 minutes20 min
+Video: Lecture11.20. Convergence - II
+. Duration: 16 minutes16 min
+Quiz: Unit 11 Quiz
+4 questions
+Programming Assignment: Coding Assignment 4
+. Duration: 3 hours3h
+Unit 11 Quiz
+Quiz30 minutes • 30 min
+Submit your assignment
+Due November 15, 12:29 PM ISTNov 15, 12:29 PM IST
+Attempts 3 every 8 hours
+Receive grade
+To Pass 40% or higher
+Your grade
+100%
+We keep your highest score
+
+Unit 11 Quiz
+Graded Quiz • 30 min
+
+DueNov 15, 12:29 PM IST
+Unit 11 Quiz
+Total points 4
+1.
+Question 1
+The time-dependent heat conduction problem (linear, parabolic partial differential in a scalar unknown) has a unique solution for temperature even for the case where only flux (Neumann) boundary conditions are applied. When compared with the steady state heat conduction problem, what is it about the time-dependent problem that guarantees a unique solution? 
+
+
+Ans:the specification of an initial condition on temperature
+
+
+2.
+Question 2
+The final finite element equations for time-dependent heat conduction are ordinary differential equations in time. This is a consequence of the following property of the finite-dimensional trial solution: 
+
+
+Ans:it is separable in the sense that the nodal degrees of freedom are only functions of time, whereas the spatial dependence is 
+carried in the basis functions
+
+
+
+
+3.
+Question 3
+Consider the Euler family of integration algorithms for the time-dependent heat conduction problem (linear, parabolic partial differential in a scalar unknown). What is the amplification factor for high-order modes with the parameter alpha = 0.75=0.75? 
+
+
+Ans:−1/3
+
+
+4.
+Question 4
+Of the Euler family of time integration algorithms for the time-dependent heat conduction problem (linear, parabolic partial differential 
+in a scalar unknown), only the Midpoint Rule is second-order accurate. It also is unconditionally stable. However, it does have a drawback:
+
+
+Ans:high-order modes show oscillations
+
