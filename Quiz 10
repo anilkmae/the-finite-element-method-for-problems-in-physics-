@@ -1,0 +1,28 @@
+1.
+Question 1
+Consider the constitutive relations for linearized elasticity for an isotropic material and 
+suppose that the Poisson ratio = 0=0 for this material. Which of the following is true: 
+
+Ans:there is no coupling between the stress and strain in mutually orthogonal directions
+
+
+2.
+Question 2
+In steady state linearized elasticity, you cannot specify the u_1 displacement component as a Dirichlet boundary condition, 
+while also specifying the T_2 and T_3 components of the traction as Neumann conditions on that same boundary.
+
+Ans:False
+
+3.
+Question 3
+Consider two neighboring hexahedral elements in a finite element implementation of steady state linearized elasticity, and 
+suppose that they share a common face that does not lie on any of the domain boundaries, nor intersect any of them. When you 
+assemble the global stiffness matrix, KK for this problem, how many entries in this matrix will have contributions from both elements? 
+
+Ans:12
+
+4.
+Question 4
+In linearized elasticity all components of the stress can be specified as a Neumann condition on some boundary. 
+
+Ans:False
