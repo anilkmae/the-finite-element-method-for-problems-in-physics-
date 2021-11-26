@@ -1,0 +1,14 @@
+1.
+Question 1
+Consider the Newmark family of time integration algorithms for linear elastodynamics (linear, hyperbolic partial differential equation in a vector
+unknown). The damped case is always more stable than the undamped case for any combination of algorithm parameters. 
+
+Ans:True
+
+
+2.
+Question 2
+Identify all the conditions for a member of the Newmark family of algorithms to satisfy in order to ensure that the solution will converge with 
+respect to refinement of the time step. 
+
+Ans:consistency and stability
